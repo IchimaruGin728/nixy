@@ -16,6 +16,11 @@
     timeZone = "Asia/Singapore";
     defaultLocale = "en_SG.UTF-8";
     extraLocale = "zh_SG.UTF-8";
+    
+    git = {
+      username = "IchimaruGin728";
+      email = "ichimarugin728@gmail.com";
+    };
 
     autoUpgrade = false;
     autoGarbageCollector = true;
