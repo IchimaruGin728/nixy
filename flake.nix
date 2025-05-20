@@ -50,6 +50,7 @@
             inputs.home-manager.nixosModules.home-manager
             inputs.stylix.nixosModules.stylix
             ./hosts/GIN-NIX/configuration.nix # CHANGEME: change the path to match your host folder
+	    ./hardware-configuration.nix
           ];
         };
       # Jack is my server
